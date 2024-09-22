@@ -1,0 +1,129 @@
+,route_name,route_link,busname,bustype,departing_time,duration,reaching_time,star_rating,price
+0,Srinagar to Jammu (j and k),https://www.redbus.in/bus-tickets/srinagar-to-jammu,Jamna Travels-Jammu,Non AC Seater (2+2),19:00,11h 45m,06:45,2.2,649
+1,Srinagar to Jammu (j and k),https://www.redbus.in/bus-tickets/srinagar-to-jammu,New Pal Travels,NON A/C Seater / Sleeper (2+2),19:00,10h 00m,05:00,2.0,719
+2,Delhi to Srinagar,https://www.redbus.in/bus-tickets/delhi-to-srinagar,RAO TRAVELS INDIA PVT LTD.,Mercedes Benz A/C (2+2),16:00,19h 30m,11:30,2.2,3000
+3,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jamna Travels-Jammu,Non AC Seater (2+2),19:30,10h 30m,06:00,2.4,699
+4,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,New Pal Travels,NON A/C Seater / Sleeper (2+2),21:15,10h 00m,07:15,1.7,719
+5,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jamna Travels-Jammu,Non AC Seater (2+2),21:30,10h 30m,08:00,1.4,549
+6,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),16:30,10h 00m,02:30,1.0,699
+7,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),17:15,10h 00m,03:15,1.0,699
+8,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Lavish Travels,A/C Seater / Sleeper (2+2),14:40,13h 55m,04:35,3.1,522
+9,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),15:10,02h 05m,17:15,3.5,500
+10,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),15:50,02h 40m,18:30,3.5,950
+11,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),16:20,01h 40m,18:00,3.5,500
+12,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,City Land Travels,A/C Seater/Sleeper (2+1),16:30,01h 20m,17:50,3.6,673
+13,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Shiv Mohan Travels,AC Sleeper (2+1),17:00,01h 30m,18:30,4.3,588
+14,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,FlixBus,A/C Sleeper (2+1),18:30,01h 25m,19:55,4.1,115
+15,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),18:45,01h 25m,20:10,4.3,231
+16,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),19:00,01h 00m,20:00,3.7,800
+17,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,City Land Travels,A/C Seater/Sleeper (2+1),19:00,01h 30m,20:30,3.6,673
+18,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Zingbus Plus,A/C Sleeper (2+1),19:50,01h 30m,21:20,4.3,120
+19,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,FlixBus,A/C Sleeper (2+1),21:00,01h 25m,22:25,4.1,121
+20,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Royal Golden,A/C Seater / Sleeper (2+2),13:00,01h 00m,14:00,2.0,320
+21,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),14:00,01h 45m,15:45,1.2,349
+22,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Royal Golden,A/C Seater / Sleeper (2+2),23:00,01h 00m,00:00,2.0,495
+23,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:00,01h 20m,00:20,1.2,399
+24,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,VGO BUS,A/C Seater/Sleeper (2+1),18:30,01h 00m,19:30,4.0,1800
+25,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Shiv Mohan Travels,AC Sleeper (2+1),18:30,02h 00m,20:30,4.3,1285
+26,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,SPEED BUS,A/C Volvo B11R Multi-Axle Sleeper (2+1),20:00,01h 30m,21:30,3.7,3500
+27,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),20:00,01h 00m,21:00,3.7,1499
+28,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:15,07h 15m,04:30,4.7,722
+29,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:50,07h 30m,04:20,4.4,960
+30,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:30,07h 20m,04:50,4.4,722
+31,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,AdMoon Light Travels Katra,A/C Sleeper (2+1),20:15,08h 05m,04:20,3.9,584
+32,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+2),20:30,07h 15m,03:45,4.6,542
+33,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+1),22:15,06h 55m,05:10,4.4,542
+34,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,New Pal Travels,A/C Sleeper (2+1),22:00,07h 30m,05:30,4.4,539
+35,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,AdNew Pal Travels,A/C Sleeper (2+1),21:30,07h 45m,05:15,3.8,629
+36,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,07h 15m,02:00,4.5,941
+37,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Khurana Bus Service,Volvo A/C (2+2),13:30,07h 20m,20:50,4.3,552
+38,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:35,07h 55m,01:30,4.4,569
+39,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Harikesh Tour N Travels,A/C Sleeper (2+1),21:10,07h 20m,04:30,4.2,550
+40,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:00,07h 40m,03:40,4.5,582
+41,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:15,07h 25m,03:40,4.3,855
+42,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Zimindara Travels,A/C Seater / Sleeper (2+1),13:15,07h 30m,20:45,3.9,549
+43,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Jamna Travels-Jammu,AshokLeyland Stile A/C,21:00,07h 30m,04:30,3.9,550
+44,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Moon Light Travels Katra,A/C Sleeper (2+1),21:15,07h 50m,05:05,4.9,629
+45,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Baru travels,A/C Seater / Sleeper (2+2),21:45,07h 20m,05:05,4.0,450
+46,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:50,07h 30m,04:20,5.0,647
+47,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:25,07h 50m,05:15,3.8,567
+48,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),21:45,07h 20m,05:05,4.9,500
+49,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),16:20,07h 38m,23:58,4.4,499
+50,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Zimindara Travels,AC Sleeper (2+1),14:55,08h 00m,22:55,4.2,649
+51,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Khurana Bus Service,Volvo A/C (2+2),13:30,07h 40m,21:10,3.8,637
+52,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+2),22:30,07h 40m,06:10,4.2,542
+53,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:15,07h 45m,02:00,4.4,722
+54,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Awadh Travels,A/C Sleeper (2+2),20:55,07h 05m,04:00,3.7,809
+55,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Zimindara Travels,A/C Seater / Sleeper (2+1),21:30,07h 30m,05:00,3.8,499
+56,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),20:15,07h 15m,03:30,4.1,490
+57,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,City Land Travels,A/C Seater/Sleeper (2+1),20:30,07h 45m,04:15,3.7,673
+58,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),20:00,07h 55m,03:55,3.4,800
+59,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Zimindara Travels,AC Sleeper (2+1),20:50,07h 30m,04:20,3.4,649
+60,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),20:30,07h 20m,03:50,4.3,599
+61,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Jamna Travels-Jammu,AshokLeyland Stile A/C,21:45,07h 30m,05:15,2.6,699
+62,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Travel Point,A/C Seater / Sleeper (2+2),15:45,07h 45m,23:30,2.8,528
+63,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Zingbus Plus,A/C Sleeper (2+1),21:20,08h 20m,05:40,4.3,736
+64,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Gola Bus Service,A/C Seater/Sleeper (2+1),20:20,07h 30m,03:50,4.4,399
+65,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),14:30,07h 15m,21:45,4.3,499
+66,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:25,07h 15m,04:40,4.0,567
+67,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),20:15,07h 25m,03:40,4.1,899
+68,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Baru travels,A/C Seater / Sleeper (2+2),21:45,07h 05m,04:50,3.9,599
+69,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Just kailash,A/C Seater / Sleeper (2+2),21:45,07h 15m,05:00,2.8,479
+70,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,RK Holiday,A/C Seater / Sleeper (2+2),22:10,07h 50m,06:00,3.1,555
+71,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Lavish Travels,A/C Seater / Sleeper (2+2),16:35,08h 40m,01:15,3.1,522
+72,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Shiv Mohan Travels,AC Sleeper (2+1),18:30,09h 00m,03:30,4.3,1243
+73,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),18:30,06h 00m,00:30,2.6,699
+74,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),16:30,08h 00m,00:30,1.9,555
+75,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Lucky Bus Service,VE A/C Sleeper (2+2),21:00,07h 45m,04:45,3.4,1439
+76,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),17:30,09h 15m,02:45,4.1,799
+77,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Shub Yatra Holidays,A/C Sleeper (2+2),21:15,08h 00m,05:15,2.2,1099
+78,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Shiv Mohan Travels,AC Sleeper (2+1),20:30,07h 45m,04:15,4.3,1285
+79,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),21:00,08h 15m,05:15,3.7,699
+80,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),14:30,07h 25m,21:55,3.7,499
+81,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Travel Point,A/C Seater / Sleeper (2+2),18:30,07h 45m,02:15,3.5,904
+82,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),14:30,07h 35m,22:05,3.7,499
+83,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Apex Bus Travels,A/C Seater / Sleeper (2+2),20:00,05h 15m,01:15,2.6,1999
+84,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Apex Bus Travels,A/C Seater / Sleeper (2+2),21:45,04h 45m,02:30,2.6,999
+85,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Big Bus,A/C Seater / Sleeper (2+2),23:00,06h 30m,05:30,2.4,799
+86,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Ashok Travels,A/C Seater / Sleeper (2+2),17:30,06h 30m,00:00,2.4,759
+87,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Big Bus,A/C Seater / Sleeper (2+2),21:00,06h 30m,03:30,2.4,799
+88,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Big Bus,A/C Seater / Sleeper (2+2),18:30,06h 30m,01:00,2.4,899
+89,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh Transport Undertaking (CTU) - 165940,HVAC Seater (2+3),15:40,09h 25m,01:05,3.7,554.29
+90,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:50,07h 10m,06:00,4.5,551
+91,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06h 55m,06:00,4.4,486
+92,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,AdRadhe Travels,Bharat Benz A/C Sleeper (2+1),21:20,07h 25m,04:45,4.4,499
+93,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,4.3,450
+94,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,4.4,616
+95,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:50,07h 10m,07:00,4.3,770
+96,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,AdMoon Light Travels Katra,A/C Sleeper (2+1),21:15,07h 15m,04:30,4.2,539
+97,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,New Pal Travels,A/C Sleeper (2+1),19:30,10h 15m,05:45,3.8,494
+98,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Jamna Travels-Jammu,AshokLeyland Stile A/C,20:15,08h 15m,04:30,4.1,550
+99,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Baru travels,A/C Seater / Sleeper (2+2),20:45,07h 30m,04:15,4.1,400
+100,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Moon Light Travels Katra,A/C Sleeper (2+2),22:00,07h 00m,05:00,3.1,539
+101,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Harikesh Tour N Travels,A/C Sleeper (2+1),21:00,07h 30m,04:30,4.0,660
+102,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Moon Light Travels Katra,A/C Sleeper (2+1),22:00,07h 25m,05:25,3.9,539
+103,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,AC Sleeper (2+1),21:30,07h 00m,04:30,3.9,599
+104,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Khurana Bus Service,Volvo A/C (2+2),14:20,07h 25m,21:45,3.1,722
+105,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,AC Sleeper (2+1),22:00,07h 00m,05:00,3.6,599
+106,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,AC Sleeper (2+1),23:00,07h 00m,06:00,3.3,649
+107,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),23:30,07h 30m,07:00,3.6,720
+108,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,SAHARA TRAVELS,A/C Seater / Sleeper (2+2),21:15,08h 00m,05:15,2.5,449
+109,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:30,07h 15m,04:45,3.3,499
+110,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),23:29,07h 46m,07:15,3.7,699
+111,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:40,07h 00m,20:40,3.2,449
+112,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,RK Holiday,A/C Seater / Sleeper (2+2),23:20,08h 40m,08:00,3.1,499
+113,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,07h 30m,07:00,3.0,799
+114,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Khurana Bus Service,Volvo A/C (2+2),14:25,07h 20m,21:45,3.5,680
+115,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,2.1,629
+116,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Awadh Travels,A/C Sleeper (2+1),21:15,09h 45m,07:00,3.3,599
+117,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),21:30,06h 00m,03:30,2.1,629
+118,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),23:15,07h 15m,06:30,2.3,550
+119,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,City Land Travels,A/C Seater/Sleeper (2+1),23:50,07h 40m,07:30,2.4,619
+120,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:45,06h 55m,20:40,2.9,449
+121,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Jamna Travels-Jammu,A/C Sleeper (2+2),22:00,08h 00m,06:00,3.5,1299
+122,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:47,06h 53m,20:40,2.8,449
+123,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Khurana Bus Service,Bharat Benz A/C Seater (2+2),19:00,05h 40m,00:40,3.3,400
+124,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Khurana Bus Service,Bharat Benz A/C Seater (2+2),19:05,05h 35m,00:40,3.3,400
+125,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Big Bus,A/C Seater / Sleeper (2+2),20:20,07h 10m,03:30,2.4,695
+126,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Big Bus,A/C Seater / Sleeper (2+2),22:25,07h 10m,05:35,2.4,695
+127,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,RAO TRAVELS INDIA PVT LTD.,Mercedes Benz A/C (2+2),23:00,04h 30m,03:30,2.2,3000

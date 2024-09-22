@@ -1,0 +1,597 @@
+,route_name,route_link,busname,bustype,departing_time,duration,reaching_time,star_rating,price
+0,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8678,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:00,04h 20m,05:20,3.7,320
+1,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64023,RAJDHANI (A.C. Semi Sleeper),03:15,03h 45m,07:00,3.8,389
+2,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8676,RAJDHANI (A.C. Semi Sleeper),04:00,05h 30m,09:30,4.1,389
+3,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8626,RAJDHANI (A.C. Semi Sleeper),04:20,04h 00m,08:20,3.9,389
+4,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 1318,Lahari A/C sleeper,04:40,05h 00m,09:40,4.6,389
+5,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8703,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:00,04h 45m,09:45,4.6,320
+6,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 1951,Lahari A/C sleeper,05:35,05h 25m,11:00,4.3,389
+7,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 4173,RAJADHANI AC (CONVERTED METRO LUXURY),06:00,05h 40m,11:40,3.8,389
+8,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8859,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:15,04h 25m,10:40,4.9,320
+9,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8725,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:15,05h 40m,11:55,4.5,320
+10,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8944,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:30,05h 35m,12:05,3.7,320
+11,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8806,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:35,06h 10m,12:45,4.2,320
+12,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64643,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,04h 40m,11:40,4.3,320
+13,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 6923,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,04h 20m,11:20,3.7,320
+14,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8817,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:10,06h 10m,13:20,4.8,320
+15,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64825,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:15,06h 15m,13:30,4.9,320
+16,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8645,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:00,04h 20m,12:20,4.7,320
+17,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64594,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:25,06h 00m,14:25,4.5,320
+18,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8922,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:30,04h 30m,13:00,2.7,320
+19,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8735,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:30,04h 45m,13:15,3.7,320
+20,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64557,Deluxe (Non AC Seater 2+2),08:45,05h 05m,13:50,4.9,281
+21,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8654,RAJADHANI AC (CONVERTED METRO LUXURY),08:50,04h 00m,12:50,3.4,389
+22,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8818,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:00,06h 30m,15:30,3.7,320
+23,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 7647,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:30,05h 50m,15:20,4.3,320
+24,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8620,RAJDHANI (A.C. Semi Sleeper),09:30,05h 50m,15:20,2.8,389
+25,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8612,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:30,04h 20m,13:50,2.9,320
+26,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8695,RAJADHANI AC (CONVERTED METRO LUXURY),09:50,04h 00m,13:50,3.2,389
+27,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64529,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:55,06h 00m,15:55,4.2,320
+28,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 1322,Lahari A/C sleeper,10:25,05h 55m,16:20,3.6,389
+29,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64009,RAJDHANI (A.C. Semi Sleeper),10:30,05h 30m,16:00,3.2,389
+30,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8850,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:45,06h 25m,18:10,3.2,320
+31,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8634,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:50,04h 20m,16:10,4.7,320
+32,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64526,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:55,06h 00m,17:55,3.5,320
+33,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 6946,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:50,04h 55m,18:45,4.0,320
+34,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8951,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:00,04h 15m,18:15,4.3,320
+35,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64958,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:20,04h 30m,18:50,3.6,320
+36,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8660,RAJDHANI (A.C. Semi Sleeper),14:40,04h 00m,18:40,3.4,389
+37,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8632,RAJDHANI (A.C. Semi Sleeper),14:55,05h 45m,20:40,3.1,389
+38,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64188,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:00,04h 40m,19:40,4.2,320
+39,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 1953,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),15:00,05h 30m,20:30,3.1,389
+40,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 1320,Lahari A/C sleeper,15:55,05h 15m,21:10,2.8,389
+41,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64828,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,04h 30m,21:00,2.0,320
+42,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8869,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:40,04h 20m,22:00,3.7,320
+43,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64363,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:50,04h 30m,22:20,3.7,320
+44,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8682,RAJADHANI AC (CONVERTED METRO LUXURY),18:00,04h 00m,22:00,3.4,389
+45,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8618,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:40,04h 20m,23:00,3.6,320
+46,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64021,RAJDHANI (A.C. Semi Sleeper),19:00,04h 00m,23:00,3.0,389
+47,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 7645,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,06h 15m,01:45,3.2,320
+48,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8601,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:40,04h 05m,23:45,3.7,320
+49,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 4160,RAJDHANI (A.C. Semi Sleeper),20:00,06h 05m,02:05,3.7,389
+50,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8804,RAJDHANI (A.C. Semi Sleeper),20:35,05h 45m,02:20,3.8,389
+51,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64341,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:50,06h 20m,03:10,2.3,320
+52,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8886,Lahari Non A/C Sleeper Cum Seater,21:00,05h 45m,02:45,3.3,320
+53,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8825,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,05h 40m,02:40,3.1,320
+54,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8699,RAJDHANI (A.C. Semi Sleeper),21:00,04h 00m,01:00,3.4,389
+55,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8856,RAJDHANI (A.C. Semi Sleeper),21:15,05h 45m,03:00,4.0,389
+56,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8848,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,05h 35m,02:55,4.5,320
+57,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64864,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:40,04h 20m,02:00,3.7,320
+58,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64832,RAJDHANI (A.C. Semi Sleeper),22:00,05h 45m,03:45,4.1,389
+59,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8971,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,06h 10m,04:10,4.4,320
+60,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64827,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,05h 55m,04:10,3.4,320
+61,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 9970,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,04h 15m,02:30,3.7,320
+62,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8610,RAJDHANI (A.C. Semi Sleeper),22:50,05h 45m,04:35,4.3,389
+63,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64527,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:55,05h 55m,04:50,3.7,320
+64,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64090,RAJDHANI (A.C. Semi Sleeper),23:10,04h 00m,03:10,3.2,389
+65,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8975,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:15,04h 15m,03:30,2.4,320
+66,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 8614,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:50,06h 00m,05:50,4.1,320
+67,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TSRTC - 64511,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:55,04h 15m,04:10,4.6,320
+68,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,APSRTC - 3795,Super Luxury (Non AC Seater 2+2 Push Back),20:15,05h 35m,01:50,3.9,344
+69,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,APSRTC - 3805,Super Luxury (Non AC Seater 2+2 Push Back),21:15,06h 30m,03:45,3.3,344
+70,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,APSRTC - 3812,Super Luxury (Non AC Seater 2+2 Push Back),21:55,05h 20m,03:15,3.3,344
+71,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,APSRTC - 3791,Super Luxury (Non AC Seater 2+2 Push Back),22:15,06h 00m,04:15,3.7,344
+72,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,APSRTC - 3705,Super Luxury (Non AC Seater 2+2 Push Back),22:40,05h 20m,04:00,3.3,344
+73,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,APSRTC - 3797,Super Luxury (Non AC Seater 2+2 Push Back),22:45,06h 15m,05:00,2.0,344
+74,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Morning Star Travels,Scania AC Multi Axle Sleeper (2+1),03:20,04h 10m,07:30,3.8,790
+75,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:30,06h 00m,00:30,3.5,555
+76,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:30,04h 00m,23:30,3.8,800
+77,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Shyamoli Paribahan Pvt Ltd,A/C Seater/Sleeper (2+1),20:00,05h 00m,01:00,4.3,599
+78,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Gupta Travels Galaxy,A/C Seater / Sleeper (2+2),21:00,06h 15m,03:15,3.8,665
+79,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels(VGN),NON A/C Hi-Tech (2+2),21:10,06h 20m,03:30,3.3,400
+80,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),21:15,05h 45m,03:00,4.7,400
+81,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,06h 10m,03:30,4.4,450
+82,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,06h 30m,03:50,4.3,500
+83,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Bharathi Tours & Travels,A/C Sleeper (2+1),21:20,06h 10m,03:30,4.3,950
+84,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,DMR Travels,Non A/C Seater / Sleeper (2+1),21:35,05h 25m,03:00,3.6,670
+85,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Rama Travels,A/C Seater / Sleeper (2+1),21:40,05h 50m,03:30,3.5,720
+86,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Rama Travels,A/C Seater / Sleeper (2+1),21:40,05h 50m,03:30,3.5,720
+87,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels(VGN),Non A/C Seater / Sleeper (2+1),21:45,06h 05m,03:50,3.3,600
+88,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri KVR Travels,A/C Sleeper (2+1),21:45,06h 15m,04:00,3.8,600
+89,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Rajdhani Travels,A/C Sleeper (2+1),21:50,05h 10m,03:00,4.3,950
+90,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,BSR Tours And Travels,A/C Sleeper (2+1),22:00,04h 30m,02:30,3.7,880
+91,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels(VGN),Non A/C Seater / Sleeper (2+1),22:00,05h 50m,03:50,3.3,500
+92,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,BSR Tours And Travels,A/C Sleeper (2+1),22:00,05h 10m,03:10,4.8,880
+93,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,BSR Tours And Travels,NON A/C Seater (2+2),22:00,04h 30m,02:30,3.6,450
+94,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Mahadevv travels,Non A/C Seater / Sleeper (2+1),22:00,05h 00m,03:00,3.3,542
+95,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels(VGN),NON A/C Hi-Tech (2+2),22:10,06h 05m,04:15,3.3,400
+96,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),22:15,05h 15m,03:30,3.8,630
+97,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,05h 15m,03:30,4.8,500
+98,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Vasireddy Travels,Non A/C Seater / Sleeper (2+1),22:30,05h 20m,03:50,3.9,699
+99,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Morning Star Travels,A/C Sleeper (2+1),22:30,04h 30m,03:00,3.8,750
+100,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),22:30,05h 00m,03:30,3.9,450
+101,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Venkateswara Travels,Non A/C Seater / Sleeper (2+1),22:30,05h 00m,03:30,3.2,500
+102,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Vasireddy Travels,A/C Seater / Sleeper (2+1),22:30,05h 20m,03:50,3.9,699
+103,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Vasireddy Travels,A/C Seater / Sleeper (2+1),22:30,05h 30m,04:00,3.9,650
+104,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:35,05h 10m,03:45,4.3,500
+105,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Siri Tours and Travels,Non A/C Seater / Sleeper (2+1),22:35,03h 55m,02:30,3.5,444
+106,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Mozo travels,A/C Seater / Sleeper (2+1),22:40,04h 55m,03:35,4.1,600
+107,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Morning Star Travels,A/C Sleeper (2+1),22:50,04h 20m,03:10,3.8,750
+108,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Mythri Tours And Travels,A/C Sleeper (2+1),23:00,04h 00m,03:00,4.6,899
+109,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Keerthana Sai Travels,Non A/C Seater / Sleeper (2+1),23:00,04h 15m,03:15,3.2,570
+110,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,RRR Travels,A/C Seater / Sleeper (2+1),23:10,04h 50m,04:00,4.1,600
+111,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Orange Tours And Travels,A/C Sleeper (2+1),05:15,04h 15m,09:30,2.3,500
+112,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,MAHABAHUSRIKVRTRAVELS,Non A/C Seater / Sleeper (2+1),16:00,06h 30m,22:30,1.4,700
+113,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),17:00,04h 15m,21:15,1.4,890
+114,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Maa Bankeshwari -Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),19:15,05h 15m,00:30,2.8,618
+115,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,KVR Tours and Travels,A/C Sleeper (2+1),19:30,06h 10m,01:40,2.7,854
+116,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sai Krishna Bus Service,NON AC Seater / Sleeper 2+1,21:15,03h 45m,01:00,2.0,700
+117,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,KVR Tours and Travels,A/C Seater / Sleeper (2+1),21:30,06h 10m,03:40,2.7,569
+118,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,SVN TOURS & TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:00,05h 30m,03:30,2.7,899
+119,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,05h 25m,03:45,2.4,470
+120,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,05h 25m,03:45,2.4,450
+121,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,SRI SAI BALAJI TOURS AND TRAVELS,A/C Sleeper (2+1),22:30,04h 30m,03:00,2.3,799
+122,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Sai Balaji Travels,A/C Sleeper (2+1),22:30,04h 30m,03:00,0.0,799
+123,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:30,04h 30m,04:00,2.9,500
+124,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels,A/C Sleeper (2+1),19:00,04h 30m,23:30,3.1,1400
+125,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,DMR Travels,A/C Sleeper (2+1),20:40,05h 20m,02:00,3.6,1100
+126,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:00,04h 30m,02:30,3.4,1200
+127,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels,A/C Sleeper (2+1),22:00,05h 00m,03:00,3.4,1990
+128,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Morning Star Travels,A/C Sleeper (2+1),22:25,05h 10m,03:35,3.8,1090
+129,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Mozo travels,A/C Sleeper (2+1),22:40,04h 55m,03:35,4.1,2699
+130,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,SRI SAI BALAJI TOURS AND TRAVELS,A/C Seater / Sleeper (2+1),17:20,04h 00m,21:20,2.3,999
+131,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Orange Tours And Travels,A/C Sleeper (2+1),22:00,05h 30m,03:30,2.3,1000
+132,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,SVN TOURS & TRAVELS,NON A/C Semi Sleeper / Sleeper (2+1),22:00,05h 30m,03:30,2.7,1222
+133,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Nani’s Sai Krishna Travels,NON A/C Hi-Tech Push Back (2+2),22:20,04h 40m,03:00,2.4,3000
+134,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8879,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",00:15,06h 05m,06:20,4.2,451
+135,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 64187,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:00,06h 30m,10:30,3.8,451
+136,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 1321,Lahari A/C sleeper,04:00,05h 20m,09:20,3.1,548
+137,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 34335,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:30,06h 20m,10:50,4.4,451
+138,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8868,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:50,06h 15m,11:05,3.6,451
+139,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8709,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:30,06h 30m,12:00,4.4,451
+140,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 1954,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),05:35,05h 25m,11:00,4.3,548
+141,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 6905,Deluxe (Non AC Seater 2+2),05:45,06h 05m,11:50,3.8,396
+142,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8795,RAJDHANI (A.C. Semi Sleeper),06:30,06h 30m,13:00,3.8,548
+143,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 7648,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:30,07h 00m,14:30,3.8,451
+144,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 6907,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:05,06h 30m,14:35,3.8,451
+145,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8702,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:15,06h 30m,14:45,3.8,451
+146,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8726,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:45,06h 25m,15:10,3.8,451
+147,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 34339,RAJDHANI (A.C. Semi Sleeper),09:15,06h 15m,15:30,3.4,548
+148,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8728,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:30,06h 30m,16:00,3.8,451
+149,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:40,06h 15m,15:55,3.8,451
+150,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8927,LAHARI A/C SLEEPER CUM SEATER,10:30,06h 00m,16:30,1.7,548
+151,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8918,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:45,06h 05m,16:50,5.0,451
+152,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8871,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:55,06h 00m,16:55,3.8,451
+153,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8724,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:00,06h 15m,17:15,2.8,451
+154,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8736,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:30,06h 20m,17:50,3.8,451
+155,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 34343,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:40,06h 05m,17:45,3.8,451
+156,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8876,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:25,06h 05m,18:30,3.8,451
+157,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 34329,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:00,06h 30m,19:30,4.3,451
+158,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 6910,Deluxe (Non AC Seater 2+2),13:15,06h 05m,19:20,3.8,396
+159,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8704,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:45,06h 30m,20:15,3.2,451
+160,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 6904,Deluxe (Non AC Seater 2+2),14:10,06h 05m,20:15,3.8,396
+161,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 6912,Deluxe (Non AC Seater 2+2),14:55,06h 05m,21:00,3.8,396
+162,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 1319,Lahari A/C sleeper,15:20,05h 25m,20:45,2.9,548
+163,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 1952,Lahari A/C sleeper,16:20,05h 25m,21:45,3.0,548
+164,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 6914,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,06h 15m,23:05,3.8,451
+165,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 6908,Deluxe (Non AC Seater 2+2),18:25,06h 05m,00:30,3.8,396
+166,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 4161,RAJDHANI (A.C. Semi Sleeper),20:00,06h 00m,02:00,2.7,548
+167,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 6631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,07h 00m,03:30,3.8,470
+168,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8754,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,06h 25m,03:40,4.6,451
+169,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8929,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,07h 15m,04:45,4.5,497
+170,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8718,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,06h 45m,04:30,4.0,451
+171,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 7646,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,06h 30m,04:30,3.9,451
+172,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 1323,Lahari A/C sleeper,22:05,05h 25m,03:30,4.1,548
+173,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8925,LAHARI A/C SLEEPER CUM SEATER,22:05,06h 00m,04:05,4.4,548
+174,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 9998,Lahari Non A/C Sleeper Cum Seater,22:10,06h 10m,04:20,4.5,451
+175,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8874,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,06h 05m,04:20,4.9,451
+176,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8921,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:20,06h 15m,04:35,3.5,451
+177,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8734,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,06h 30m,05:00,4.4,451
+178,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8708,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,06h 15m,05:00,4.5,451
+179,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 34341,RAJDHANI (A.C. Semi Sleeper),23:00,06h 45m,05:45,3.5,548
+180,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8742,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:15,06h 30m,05:45,4.4,451
+181,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TSRTC - 8901,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:15,06h 10m,05:25,4.3,451
+182,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,BSR Tours And Travels,A/C Sleeper (2+1),23:30,06h 30m,06:00,4.5,880
+183,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,BSR Tours And Travels,A/C Sleeper (2+1),23:15,06h 45m,06:00,4.7,880
+184,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),23:00,06h 30m,05:30,4.7,630
+185,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,SAIRAJ TRAVELS,NON A/C Seater (2+2),23:05,06h 25m,05:30,4.4,500
+186,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),23:09,05h 51m,05:00,3.9,470
+187,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:20,05h 40m,05:00,4.5,750
+188,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:05,05h 55m,05:00,3.5,600
+189,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:15,05h 40m,04:55,3.9,750
+190,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:20,05h 40m,05:00,3.6,600
+191,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Bharathi Tours & Travels,A/C Sleeper (2+1),23:00,06h 00m,05:00,3.8,1050
+192,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Morning Star Travels,Scania AC Multi Axle Sleeper (2+1),16:25,05h 20m,21:45,3.6,790
+193,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:10,05h 50m,05:00,2.7,900
+194,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:05,05h 55m,05:00,3.8,600
+195,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Maa Bankeshwari- Gupta Travels Galaxy,A/C Seater / Sleeper (2+2),00:15,04h 45m,05:00,3.2,900
+196,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),23:09,05h 51m,05:00,3.2,450
+197,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Vasireddy Travels,A/C Seater / Sleeper (2+1),23:20,06h 40m,06:00,3.9,699
+198,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Vasireddy Travels,Non A/C Seater / Sleeper (2+1),23:20,06h 40m,06:00,3.9,699
+199,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Nani’s Sai Krishna Travels,NON A/C Hi-Tech Push Back (2+2),23:05,05h 55m,05:00,3.8,680
+200,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,MAHABAHUSRIKVRTRAVELS,Non A/C Seater / Sleeper (2+1),01:00,05h 35m,06:35,3.4,850
+201,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),01:00,05h 35m,06:35,3.4,1100
+202,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Maa Bankeshwari- Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),01:00,04h 30m,05:30,3.2,900
+203,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4266,Super Luxury (Non AC Seater 2+2 Push Back),09:00,06h 34m,15:34,3.7,483
+204,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4244,Super Luxury (Non AC Seater 2+2 Push Back),14:00,06h 30m,20:30,4.0,451
+205,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4246,Super Luxury (Non AC Seater 2+2 Push Back),16:00,08h 03m,00:03,2.9,483
+206,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4256,Super Luxury (Non AC Seater 2+2 Push Back),20:30,06h 15m,02:45,3.2,451
+207,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4737,Super Luxury (Non AC Seater 2+2 Push Back),21:00,05h 40m,02:40,3.7,483
+208,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4250,Super Luxury (Non AC Seater 2+2 Push Back),21:15,05h 47m,03:02,3.9,483
+209,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4620,Super Luxury (Non AC Seater 2+2 Push Back),21:45,05h 45m,03:30,3.7,483
+210,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4188,Super Luxury (Non AC Seater 2+2 Push Back),21:50,05h 55m,03:45,3.4,483
+211,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4198,INDRA(A.C. Seater),22:00,05h 20m,03:20,4.3,585
+212,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4252,Super Luxury (Non AC Seater 2+2 Push Back),22:05,05h 55m,04:00,3.8,483
+213,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4178,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:15,06h 01m,04:16,4.4,817
+214,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4611,Super Luxury (Non AC Seater 2+2 Push Back),22:15,05h 45m,04:00,4.2,483
+215,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4214,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:30,04h 35m,03:05,3.8,743
+216,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4628,Super Luxury (Non AC Seater 2+2 Push Back),22:30,06h 00m,04:30,4.2,483
+217,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4212,STAR LINER(NON-AC SLEEPER 2+1),22:40,05h 00m,03:40,3.9,626
+218,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4154,INDRA(A.C. Seater),22:45,05h 40m,04:25,3.7,585
+219,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4216,Super Luxury (Non AC Seater 2+2 Push Back),22:50,05h 58m,04:48,3.5,483
+220,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4196,Super Luxury (Non AC Seater 2+2 Push Back),23:00,05h 38m,04:38,4.0,483
+221,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,APSRTC - 4622,STAR LINER(NON-AC SLEEPER 2+1),23:30,04h 50m,04:20,4.2,626
+222,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 9597,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:00,05h 20m,11:20,3.8,364
+223,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 1542,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:00,05h 20m,15:20,3.5,364
+224,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 1764,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:00,05h 15m,16:15,3.6,364
+225,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 1634,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:00,05h 20m,17:20,3.3,364
+226,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 9690,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:05,11h 40m,02:45,4.6,454
+227,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 6595,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:05,05h 15m,20:20,3.4,364
+228,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 1575,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,05h 20m,21:50,3.6,364
+229,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 7772,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,07h 15m,00:45,2.3,394
+230,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 9569,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,06h 15m,00:15,3.0,364
+231,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 7770,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,06h 45m,02:15,3.4,395
+232,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 7774,Lahari Non A/C Sleeper Cum Seater,20:30,07h 00m,03:30,4.1,397
+233,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 1618,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05h 15m,03:45,4.2,364
+234,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,TSRTC - 1762,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,05h 20m,04:20,4.6,364
+235,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Sri Sanvi Tours and Travels,A/C Sleeper (2+1),22:15,06h 45m,05:00,4.8,2700
+236,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,IntrCity SmartBus,AC Sleeper (2+1),22:15,07h 45m,06:00,4.7,618
+237,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,GMRK Tours and Travels,Volvo A/C Semi Sleeper (2+2),22:45,06h 25m,05:10,4.5,399
+238,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,AdOrange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:00,06h 30m,05:30,3.6,800
+239,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,IntrCity SmartBus,AC Sleeper (2+1),22:35,06h 35m,05:10,4.5,598
+240,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:25,07h 20m,05:45,4.3,432
+241,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,07h 00m,05:45,4.3,427
+242,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Svkdt travels,A/C Sleeper (2+1),22:20,07h 15m,05:35,4.3,714
+243,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Yolo Bus,A/C Seater / Sleeper (2+1),22:15,07h 52m,06:07,4.2,550
+244,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,NueGo,Electric A/C Seater (2+2),05:30,07h 00m,12:30,4.3,379
+245,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Zingbus Plus,A/C Seater / Sleeper (2+1),21:45,07h 20m,05:05,4.3,325
+246,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,FRESHBUS,Electric A/C Seater (2+2),16:00,06h 40m,22:40,4.5,500
+247,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Sri KVR Travels,A/C Sleeper (2+1),22:40,06h 50m,05:30,4.2,890
+248,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,NueGo,Electric A/C Seater (2+2),22:15,07h 10m,05:25,4.1,379
+249,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,FRESHBUS,Electric A/C Seater (2+2),15:10,06h 30m,21:40,4.6,500
+250,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,YNR Travels,A/C Sleeper (2+1),22:20,06h 40m,05:00,0.0,3800
+251,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Tirumala Xpress,A/C Sleeper (2+1),22:10,07h 25m,05:35,4.1,599
+252,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Svkdt travels,A/C Sleeper (2+1),22:00,07h 45m,05:45,4.0,714
+253,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,LVR Travels,A/C Sleeper (2+1),23:00,07h 20m,06:20,4.1,699
+254,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,NueGo,Electric A/C Seater (2+2),23:30,07h 10m,06:40,3.9,379
+255,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,NueGo,Electric A/C Seater (2+2),14:45,07h 25m,22:10,4.0,379
+256,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,06h 30m,05:25,4.4,504
+257,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Pavan Tours and Travels,A/C Sleeper (2+1),21:57,06h 03m,04:00,4.6,693
+258,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,NueGo,Electric A/C Seater (2+2),11:45,07h 25m,19:10,3.8,379
+259,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:00,06h 30m,05:30,3.3,500
+260,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,V Kaveri Travels,A/C Seater / Sleeper (2+1),22:20,06h 40m,05:00,3.7,560
+261,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:30,05h 00m,04:30,3.4,790
+262,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Orange Tours And Travels,A/C Seater / Sleeper (2+1),23:00,07h 00m,06:00,3.3,700
+263,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),23:00,07h 00m,06:00,3.3,500
+264,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,KKaveri Travels,Non A/C Seater / Sleeper (2+1),23:00,06h 45m,05:45,3.7,450
+265,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),21:45,07h 45m,05:30,3.2,800
+266,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Sri Krishna Travels,A/C Semi Sleeper / Sleeper (2+1),23:00,06h 30m,05:30,3.0,550
+267,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,3.8,450
+268,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:39,05h 31m,05:10,2.8,500
+269,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Mozo travels,A/C Sleeper (2+1),23:15,06h 15m,05:30,3.9,1299
+270,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,SRI MARUTHI TRAVELS,A/C Sleeper (2+1),23:10,05h 50m,05:00,3.5,699
+271,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),23:10,05h 50m,05:00,2.6,449
+272,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Orange Tours And Travels,NON A/C Sleeper (2+1),23:00,06h 45m,05:45,2.7,700
+273,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:15,05h 40m,04:55,2.9,890
+274,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Sudha Sri Tours and Travels,A/C Sleeper (2+1),22:15,07h 45m,06:00,3.2,690
+275,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Teja Tours and Travels,A/C Sleeper (2+1),23:00,07h 00m,06:00,4.1,580
+276,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),21:25,09h 25m,06:50,2.3,690
+277,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Morning Star Travels,NON A/C Sleeper (2+1),22:15,06h 35m,04:50,2.4,690
+278,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Moonlight Travels,A/C Sleeper (2+1),22:00,08h 00m,06:00,2.1,3000
+279,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),14:45,06h 45m,21:30,2.5,790
+280,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Chandu Travels,A/C Seater / Sleeper (2+1),23:00,06h 30m,05:30,2.1,371
+281,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Orange Tours And Travels,Volvo Multi-Axle Sleeper A/C (2+1),22:30,07h 15m,05:45,3.3,800
+282,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,AVR Travels,A/C Seater / Sleeper (2+1),22:00,07h 15m,05:15,3.2,1049
+283,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Varun Travels,Scania AC Multi Axle Sleeper (2+1),22:30,07h 00m,05:30,3.7,650
+284,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Sravani Travels,A/C Seater / Sleeper (2+1),23:00,07h 20m,06:20,4.0,4000
+285,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Sai Sri Durga Travels,Non A/C Seater / Sleeper (2+1),22:15,07h 15m,05:30,2.7,3000
+286,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Morning Star Travels,NON A/C Sleeper (2+1),23:30,05h 35m,05:05,2.6,690
+287,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,SRI MARUTHI TRAVELS,A/C Seater Push Back (2+2),23:10,05h 50m,05:00,2.8,2499
+288,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 7762,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:50,03h 00m,04:50,4.5,232
+289,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 9887,RAJDHANI (A.C. Semi Sleeper),01:55,03h 15m,05:10,2.8,246
+290,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 31362,RAJDHANI (A.C. Semi Sleeper),02:05,02h 45m,04:50,3.3,374
+291,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 30710,RAJDHANI (A.C. Semi Sleeper),03:00,02h 40m,05:40,3.8,246
+292,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 42362,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:40,03h 15m,06:55,4.3,232
+293,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1590,RAJDHANI (A.C. Semi Sleeper),03:50,02h 35m,06:25,3.3,246
+294,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 42562,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:40,03h 15m,07:55,2.6,232
+295,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1571,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:40,03h 00m,07:40,2.9,232
+296,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 42762,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:20,03h 15m,08:35,2.8,232
+297,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 5966,RAJADHANI AC (CONVERTED METRO LUXURY),05:20,02h 50m,08:10,2.6,246
+298,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 7621,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:05,03h 55m,10:00,2.5,232
+299,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 4074,RAJDHANI (A.C. Semi Sleeper),06:05,02h 45m,08:50,3.5,246
+300,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 42962,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:30,02h 50m,09:20,3.9,232
+301,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1887,RAJDHANI (A.C. Semi Sleeper),06:45,02h 45m,09:30,3.3,246
+302,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 43162,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,02h 55m,09:55,3.3,232
+303,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1549,RAJADHANI AC (CONVERTED METRO LUXURY),07:50,02h 40m,10:30,3.7,246
+304,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 43362,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:50,02h 50m,10:40,2.0,232
+305,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40577,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:30,02h 50m,11:20,3.3,232
+306,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 42131,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:00,03h 10m,12:10,3.3,232
+307,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 2981,RAJADHANI AC (CONVERTED METRO LUXURY),09:10,02h 30m,11:40,4.2,246
+308,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 7693,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:00,03h 20m,13:20,4.6,232
+309,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1650,RAJADHANI AC (CONVERTED METRO LUXURY),10:10,02h 30m,12:40,2.2,246
+310,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 31110,RAJDHANI (A.C. Semi Sleeper),10:20,02h 40m,13:00,2.2,246
+311,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 4076,RAJADHANI AC (CONVERTED METRO LUXURY),10:50,02h 40m,13:30,3.8,246
+312,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 9923,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:35,03h 15m,14:50,2.6,232
+313,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 9934,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:55,04h 15m,16:10,3.5,232
+314,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1892,RAJDHANI (A.C. Semi Sleeper),12:05,02h 50m,14:55,3.3,246
+315,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1464,RAJDHANI (A.C. Semi Sleeper),12:25,03h 15m,15:40,2.8,246
+316,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40131,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:50,03h 10m,16:00,2.5,232
+317,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 2991,RAJDHANI (A.C. Semi Sleeper),13:05,02h 45m,15:50,2.1,246
+318,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1805,RAJADHANI AC (CONVERTED METRO LUXURY),13:30,03h 00m,16:30,3.3,246
+319,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40162,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:20,02h 50m,17:10,2.8,232
+320,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1468,RAJDHANI (A.C. Semi Sleeper),14:25,02h 45m,17:10,2.3,246
+321,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 9945,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:45,03h 15m,18:00,1.8,232
+322,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1547,RAJDHANI (A.C. Semi Sleeper),15:05,02h 45m,17:50,2.8,246
+323,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40331,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:30,03h 00m,18:30,4.4,232
+324,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40362,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,02h 50m,19:00,3.9,232
+325,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1432,RAJDHANI (A.C. Semi Sleeper),16:30,02h 45m,19:15,2.4,246
+326,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40562,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:40,02h 50m,19:30,5.0,232
+327,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1402,Rajdhani (AC Semi Sleeper 2+2),16:45,02h 45m,19:30,3.2,246
+328,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40110,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:00,03h 00m,20:00,2.4,232
+329,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40310,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:20,03h 00m,20:20,4.4,232
+330,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1426,Rajdhani (AC Semi Sleeper 2+2),17:25,02h 45m,20:10,2.8,246
+331,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40531,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:40,03h 10m,20:50,2.1,232
+332,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1102,RAJDHANI (A.C. Semi Sleeper),17:45,02h 45m,20:30,4.2,246
+333,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 30362,RAJDHANI (A.C. Semi Sleeper),18:05,02h 45m,20:50,3.5,246
+334,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40510,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,02h 50m,21:20,2.5,232
+335,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40731,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,02h 50m,21:50,4.0,232
+336,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40710,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,02h 50m,22:20,4.1,232
+337,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1412,RAJDHANI (A.C. Semi Sleeper),19:45,02h 45m,22:30,3.3,246
+338,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40962,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:50,02h 50m,22:40,3.5,232
+339,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40931,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,03h 00m,23:00,2.0,232
+340,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 40910,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,02h 50m,23:20,3.6,232
+341,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 7663,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03h 00m,23:35,3.3,232
+342,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 41162,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:40,03h 15m,23:55,2.5,232
+343,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 41131,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,03h 40m,00:40,2.9,232
+344,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 30110,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),21:05,04h 35m,01:40,3.2,292
+345,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 41362,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:40,03h 15m,00:55,2.9,232
+346,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 41331,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,02h 55m,00:55,5.0,232
+347,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 41310,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:20,03h 00m,01:20,3.6,232
+348,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 41562,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:40,03h 15m,01:55,4.0,232
+349,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 41531,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,02h 45m,01:45,4.6,232
+350,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 1450,RAJADHANI AC (CONVERTED METRO LUXURY),23:05,02h 50m,01:55,4.0,246
+351,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,TSRTC - 41762,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:20,03h 15m,02:35,3.3,232
+352,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,APSRTC - 3605,Super Luxury (Non AC Seater 2+2 Push Back),06:30,03h 32m,10:02,4.0,318
+353,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,APSRTC - 3882,Super Luxury (Non AC Seater 2+2 Push Back),10:30,03h 50m,14:20,4.8,318
+354,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,APSRTC - 3543,Super Luxury (Non AC Seater 2+2 Push Back),12:30,03h 35m,16:05,1.4,318
+355,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,APSRTC - 4044,Super Luxury (Non AC Seater 2+2 Push Back),13:20,03h 15m,16:35,4.0,318
+356,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,APSRTC - 35117,INDRA(A.C. Seater),14:53,03h 12m,18:05,4.0,385
+357,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,APSRTC - 3793,Super Luxury (Non AC Seater 2+2 Push Back),23:40,03h 05m,02:45,4.4,318
+358,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),00:15,03h 50m,04:05,4.8,448
+359,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Sri KVR Travels,NON A/C Sleeper (2+1),00:45,03h 45m,04:30,4.0,750
+360,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),00:45,05h 25m,06:10,4.1,448
+361,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Holidays Tours and Travels,A/C Seater / Sleeper (2+1),01:30,04h 29m,05:59,4.7,538
+362,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Pavan Tours and Travels,A/C Sleeper (2+1),01:30,02h 30m,04:00,4.4,523
+363,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),01:35,04h 05m,05:40,4.1,531
+364,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,LVP Travels,A/C Seater / Sleeper (2+1),01:45,02h 35m,04:20,4.2,580
+365,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,LVP Travels,Non A/C Seater / Sleeper (2+1),01:45,04h 35m,06:20,4.2,560
+366,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Go Tour Travels and Holidays,A/C Seater / Sleeper (2+1),02:15,03h 30m,05:45,4.3,749
+367,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),02:20,04h 05m,06:25,4.1,531
+368,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Mythri Tours And Travels,A/C Sleeper (2+1),02:30,04h 00m,06:30,4.6,819
+369,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,BSR Tours And Travels,A/C Seater / Sleeper (2+1),03:05,02h 55m,06:00,4.5,610
+370,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,SVR Tours and Travels,Volvo Multi Axle Sleeper B11R (2+1),03:15,03h 45m,07:00,3.3,730
+371,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,SVR Tours and Travels,Volvo A/C Sleeper (2+1),03:15,04h 50m,08:05,3.3,670
+372,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Mythri Tours And Travels,A/C Sleeper (2+1),04:00,02h 30m,06:30,4.6,749
+373,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,SVR Tours and Travels,A/C Seater / Sleeper (2+1),04:15,03h 00m,07:15,3.3,450
+374,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),06:45,03h 50m,10:35,4.8,379
+375,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),08:30,04h 00m,12:30,4.1,379
+376,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),10:45,03h 50m,14:35,4.4,332
+377,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),11:45,03h 50m,15:35,4.0,332
+378,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),12:45,03h 50m,16:35,3.9,332
+379,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),13:30,04h 05m,17:35,4.1,427
+380,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),13:45,03h 50m,17:35,3.5,332
+381,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),15:20,03h 50m,19:10,4.8,379
+382,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),16:45,03h 50m,20:35,3.4,332
+383,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,NueGo,Electric A/C Seater (2+2),18:20,03h 50m,22:10,4.3,379
+384,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),00:45,06h 05m,06:50,2.7,690
+385,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Morning Star Travels,NON A/C Sleeper (2+1),01:15,03h 45m,05:00,2.7,690
+386,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),17:10,04h 20m,21:30,2.7,790
+387,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,BSR Tours And Travels,VE A/C Sleeper (2+1),02:05,02h 55m,05:00,4.5,880
+388,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),02:15,03h 15m,05:30,4.0,890
+389,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,BSR Tours And Travels,A/C Sleeper (2+1),02:40,02h 50m,05:30,4.5,880
+390,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,BSR Tours And Travels,VE A/C Sleeper (2+1),02:40,03h 50m,06:30,4.5,880
+391,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Go Tour Travels and Holidays,A/C Sleeper (2+1),02:45,03h 45m,06:30,4.3,990
+392,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,SANDHYA TRAVELS,Bharat Benz A/C Sleeper (2+1),03:05,04h 25m,07:30,3.9,2900
+393,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,SANDHYA TRAVELS,Bharat Benz A/C Sleeper (2+1),03:05,04h 25m,07:30,3.9,2900
+394,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Sri KVR Travels,A/C Seater / Sleeper (2+1),04:00,03h 30m,07:30,4.0,990
+395,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),00:30,03h 45m,04:15,2.7,890
+396,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),01:15,03h 25m,04:40,2.7,890
+397,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Sree Raghavendra Travels,NON A/C Semi Sleeper (2+1),01:45,04h 35m,06:20,2.1,3000
+398,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),01:50,02h 50m,04:40,2.7,890
+399,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad,Morning Star Travels,A/C Sleeper (2+1),03:30,02h 30m,06:00,2.7,1090
+400,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8705,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:45,07h 30m,11:15,4.3,517
+401,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 1318,Lahari A/C sleeper,04:40,08h 00m,12:40,4.2,627
+402,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8703,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:00,07h 30m,12:30,4.4,517
+403,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 1951,Lahari A/C sleeper,05:35,07h 55m,13:30,3.7,627
+404,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8725,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:15,08h 35m,14:50,3.9,517
+405,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8735,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:30,07h 30m,16:00,3.8,517
+406,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 7647,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:30,08h 40m,18:10,4.8,517
+407,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 1322,Lahari A/C sleeper,10:25,08h 35m,19:00,4.2,627
+408,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8755,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:30,07h 30m,18:00,2.6,517
+409,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8743,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:15,07h 30m,19:45,4.1,517
+410,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 1953,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),15:00,08h 00m,23:00,3.7,627
+411,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8796,RAJDHANI (A.C. Semi Sleeper),15:40,07h 00m,22:40,3.3,627
+412,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 1320,Lahari A/C sleeper,15:55,07h 55m,23:50,2.7,627
+413,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 34336,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:00,07h 30m,23:30,3.9,517
+414,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8760,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:00,07h 30m,00:30,3.8,517
+415,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8715,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:20,07h 30m,01:50,3.7,517
+416,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 7645,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,09h 15m,04:45,4.3,517
+417,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 34342,RAJDHANI (A.C. Semi Sleeper),19:40,07h 00m,02:40,4.3,627
+418,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 4160,RAJDHANI (A.C. Semi Sleeper),20:00,08h 20m,04:20,2.6,627
+419,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8719,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,09h 30m,05:30,4.2,517
+420,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 34330,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:40,07h 30m,04:10,4.3,517
+421,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 34340,RAJDHANI (A.C. Semi Sleeper),21:15,08h 45m,06:00,3.6,627
+422,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8727,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,07h 30m,04:45,4.4,517
+423,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8729,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,07h 00m,06:00,4.1,517
+424,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,TSRTC - 8737,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:20,07h 30m,06:50,3.7,517
+425,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,BSR Tours And Travels,A/C Sleeper (2+1),22:00,07h 30m,05:30,4.7,880
+426,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,BSR Tours And Travels,A/C Sleeper (2+1),22:00,07h 30m,05:30,4.4,880
+427,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,07h 30m,05:45,4.0,500
+428,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 30m,05:50,4.0,500
+429,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),22:15,07h 30m,05:45,4.3,630
+430,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Morning Star Travels,A/C Sleeper (2+1),22:50,06h 25m,05:15,3.9,750
+431,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:35,07h 55m,06:30,3.9,500
+432,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Bharathi Tours & Travels,A/C Sleeper (2+1),21:20,08h 30m,05:50,4.2,950
+433,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:30,07h 00m,06:30,2.8,500
+434,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Morning Star Travels,A/C Sleeper (2+1),22:30,06h 40m,05:10,2.2,750
+435,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Morning Star Travels,Scania AC Multi Axle Sleeper (2+1),03:20,06h 40m,10:00,2.1,790
+436,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Sai Krishna Bus Service,NON AC Seater / Sleeper 2+1,21:15,06h 35m,03:50,1.9,800
+437,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Maa Bankeshwari -Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),19:15,07h 15m,02:30,2.1,475
+438,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,07h 30m,05:50,3.1,470
+439,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,07h 30m,05:50,3.5,450
+440,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Vasireddy Travels,A/C Seater / Sleeper (2+1),22:30,07h 38m,06:08,3.8,699
+441,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Gupta Travels Galaxy,A/C Seater / Sleeper (2+2),21:00,07h 00m,04:00,1.9,475
+442,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,A.R.M.T Co.,A/C Sleeper (2+1),17:30,07h 00m,00:30,2.7,1200
+443,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Nani’s Sai Krishna Travels,NON A/C Hi-Tech Push Back (2+2),22:20,08h 30m,06:50,2.5,3000
+444,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Gupta Travels Galaxy,A/C Sleeper (2+1),17:15,05h 30m,22:45,2.0,760
+445,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,MAHABAHUSRIKVRTRAVELS,Non A/C Seater / Sleeper (2+1),16:00,07h 50m,23:50,1.9,750
+446,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,Vasireddy Travels,Non A/C Seater / Sleeper (2+1),22:30,07h 38m,06:08,3.1,699
+447,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),17:00,06h 40m,23:40,1.9,890
+448,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8865,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:30,06h 20m,07:50,4.7,451
+449,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8905,Deluxe (Non AC Seater 2+2),03:00,06h 20m,09:20,3.8,396
+450,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8705,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:45,06h 30m,10:15,4.4,451
+451,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 6915,Deluxe (Non AC Seater 2+2),04:00,06h 20m,10:20,3.8,396
+452,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 1318,Lahari A/C sleeper,04:40,07h 20m,12:00,4.1,548
+453,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8703,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:00,06h 30m,11:30,3.3,451
+454,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 6911,Deluxe (Non AC Seater 2+2),05:20,06h 20m,11:40,3.8,396
+455,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 1951,Lahari A/C sleeper,05:35,07h 10m,12:45,4.0,548
+456,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8725,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:15,07h 40m,13:55,3.3,451
+457,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8944,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:30,07h 15m,13:45,4.7,451
+458,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 6923,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,06h 00m,13:00,3.8,451
+459,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8735,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:30,06h 30m,15:00,4.3,451
+460,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 6909,Deluxe (Non AC Seater 2+2),08:40,06h 20m,15:00,3.8,396
+461,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 06632,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:15,06h 00m,15:15,3.8,451
+462,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 34346,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:20,06h 00m,16:20,3.8,451
+463,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 1322,Lahari A/C sleeper,10:25,07h 35m,18:00,3.9,548
+464,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8755,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:30,06h 30m,17:00,3.8,451
+465,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8743,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:15,06h 30m,18:45,3.8,451
+466,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8873,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:20,06h 05m,19:25,3.0,451
+467,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8951,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:00,06h 00m,20:00,4.5,451
+468,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 1953,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),15:00,06h 30m,21:30,2.6,548
+469,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 64188,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:00,06h 25m,21:25,4.7,451
+470,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8796,RAJDHANI (A.C. Semi Sleeper),15:40,05h 50m,21:30,3.8,548
+471,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 1320,Lahari A/C sleeper,15:55,06h 45m,22:40,2.6,548
+472,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 34336,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:00,06h 30m,22:30,3.8,451
+473,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8760,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:00,06h 30m,23:30,4.8,451
+474,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8869,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:40,06h 00m,23:40,3.8,451
+475,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8715,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:20,06h 30m,00:50,3.6,451
+476,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 7645,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,08h 10m,03:40,3.9,451
+477,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 34342,RAJDHANI (A.C. Semi Sleeper),19:40,06h 00m,01:40,3.9,548
+478,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 4160,RAJDHANI (A.C. Semi Sleeper),20:00,07h 20m,03:20,3.6,548
+479,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8719,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,08h 00m,04:00,4.8,451
+480,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 6906,Deluxe (Non AC Seater 2+2),20:20,06h 20m,02:40,3.8,396
+481,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 34330,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:40,06h 30m,03:10,4.8,451
+482,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8902,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,06h 45m,03:30,4.4,451
+483,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 34340,RAJDHANI (A.C. Semi Sleeper),21:15,07h 45m,05:00,3.4,548
+484,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8727,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,06h 30m,03:45,3.7,451
+485,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8926,LAHARI A/C SLEEPER CUM SEATER,21:30,07h 30m,05:00,3.4,548
+486,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 9984,Lahari Non A/C Sleeper Cum Seater,21:30,06h 45m,04:15,3.5,451
+487,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8875,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,06h 15m,03:45,4.8,451
+488,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 9970,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,06h 00m,04:15,4.8,451
+489,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8872,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:40,06h 10m,04:50,3.9,451
+490,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8729,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,06h 00m,05:00,3.7,451
+491,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8737,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:20,06h 30m,05:50,3.7,451
+492,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TSRTC - 8877,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:55,06h 20m,06:15,4.8,451
+493,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,BSR Tours And Travels,A/C Sleeper (2+1),22:00,06h 30m,04:30,4.8,880
+494,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,BSR Tours And Travels,A/C Sleeper (2+1),22:00,06h 30m,04:30,4.6,880
+495,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,06h 45m,05:00,4.3,500
+496,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:35,06h 55m,05:30,4.3,500
+497,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Morning Star Travels,A/C Sleeper (2+1),22:50,05h 40m,04:30,3.8,750
+498,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),22:15,06h 45m,05:00,4.2,630
+499,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 35m,05:55,4.0,500
+500,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Bharathi Tours & Travels,A/C Sleeper (2+1),21:20,07h 30m,04:50,4.5,950
+501,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:30,05h 45m,05:15,2.8,500
+502,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Morning Star Travels,A/C Sleeper (2+1),22:30,05h 50m,04:20,2.9,750
+503,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),22:45,06h 15m,05:00,2.2,990
+504,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Morning Star Travels,Scania AC Multi Axle Sleeper (2+1),03:20,05h 40m,09:00,2.7,790
+505,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,06h 40m,05:00,2.9,470
+506,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,MAHABAHUSRIKVRTRAVELS,Non A/C Seater / Sleeper (2+1),16:00,07h 00m,23:00,1.2,700
+507,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Maa Bankeshwari -Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),19:15,05h 45m,01:00,2.2,618
+508,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Vasireddy Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,3.9,699
+509,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Vasireddy Travels,Non A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,3.9,699
+510,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Nani’s Sai Krishna Travels,NON A/C Hi-Tech Push Back (2+2),22:20,06h 50m,05:10,2.9,3000
+511,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,06h 40m,05:00,2.9,450
+512,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Gupta Travels Galaxy,A/C Sleeper (2+1),17:15,04h 30m,21:45,2.2,760
+513,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Gupta Travels Galaxy,A/C Seater / Sleeper (2+2),21:00,06h 45m,03:45,2.2,855
+514,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),17:00,05h 45m,22:45,1.2,890
+515,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7475,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",00:30,04h 10m,04:40,3.7,365
+516,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7306,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:15,04h 15m,08:30,3.9,365
+517,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7343,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:00,04h 45m,09:45,3.6,365
+518,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7353,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:05,04h 30m,10:35,3.8,365
+519,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7357,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:45,04h 20m,11:05,4.5,365
+520,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7386,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,04h 10m,12:05,3.3,365
+521,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7467,RAJDHANI (A.C. Semi Sleeper),09:40,04h 25m,14:05,4.7,442
+522,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7349,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:45,04h 15m,15:00,4.2,365
+523,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7373,RAJDHANI (A.C. Semi Sleeper),11:30,04h 35m,16:05,4.5,442
+524,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7471,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:40,04h 15m,16:55,2.2,365
+525,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7461,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:40,04h 10m,17:50,4.2,365
+526,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7339,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:15,04h 20m,18:35,2.9,365
+527,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7881,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:20,04h 10m,19:30,4.6,365
+528,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7465,RAJDHANI (A.C. Semi Sleeper),15:40,04h 25m,20:05,3.6,442
+529,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7351,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,04h 30m,21:00,3.1,365
+530,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7418,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:40,04h 25m,21:05,4.3,365
+531,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7382,RAJDHANI (A.C. Semi Sleeper),18:15,04h 35m,22:50,3.1,442
+532,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7302,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,05h 20m,00:35,4.8,365
+533,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7345,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,04h 25m,00:10,3.9,365
+534,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7355,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,04h 50m,00:50,3.1,365
+535,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7527,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,04h 30m,01:45,3.7,365
+536,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7384,RAJDHANI (A.C. Semi Sleeper),22:00,04h 45m,02:45,3.7,442
+537,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7359,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:55,04h 20m,03:15,3.7,365
+538,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7377,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,04h 15m,03:45,4.6,365
+539,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,TSRTC - 7375,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:59,04h 56m,04:55,4.1,366
+540,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,SRI SVR travels,A/C Sleeper (2+1),22:40,06h 20m,05:00,3.5,600
+541,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,Harikrishna Travels,Non A/C Seater / Sleeper (2+1),18:00,04h 30m,22:30,3.0,1000
+542,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,Harikrishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),18:00,05h 59m,23:59,3.0,1400
+543,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad,Harikrishna Travels,Non A/C Seater / Sleeper (2+1),18:05,05h 50m,23:55,3.0,1000
+544,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 6006,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",00:05,04h 15m,04:20,2.6,312
+545,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 6004,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:15,04h 20m,05:35,3.1,312
+546,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 8127,RAJDHANI (A.C. Semi Sleeper),04:30,04h 55m,09:25,4.7,377
+547,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 6021,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:00,04h 30m,09:30,4.6,312
+548,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 7990,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:30,04h 55m,10:25,3.3,310
+549,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 7517,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:00,04h 30m,10:30,4.1,312
+550,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 1137,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),06:15,04h 25m,10:40,3.5,377
+551,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 7992,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:30,04h 55m,11:25,3.3,310
+552,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 7879,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,04h 55m,11:55,3.3,310
+553,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 6069,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,04h 30m,11:30,2.6,312
+554,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 4005,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:00,03h 30m,12:30,3.1,312
+555,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 8199,RAJDHANI (A.C. Semi Sleeper),09:00,04h 55m,13:55,2.4,377
+556,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 7988,LAHARI A/C SLEEPER CUM SEATER,10:30,04h 55m,15:25,4.1,377
+557,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 7896,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:50,04h 55m,17:45,3.3,310
+558,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 1139,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),14:20,04h 30m,18:50,3.7,377
+559,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 8009,Lahari A/C sleeper,18:00,03h 55m,21:55,2.7,377
+560,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 6010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,04h 40m,23:10,3.5,312
+561,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,TSRTC - 4007,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,03h 30m,22:30,2.0,312
+562,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,MVN Travels,Non A/C Seater / Sleeper (2+1),02:30,04h 00m,06:30,3.0,700
+563,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Orange Tours And Travels,A/C Seater / Sleeper (2+1),04:40,03h 20m,08:00,3.6,500
+564,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Harikrishna Travels,Non A/C Seater / Sleeper (2+1),15:00,15h 30m,06:30,3.0,800
+565,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,GDR Tours and Travels,Bharat Benz A/C Seater (2+2),18:00,03h 30m,21:30,3.4,666
+566,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,SRI SVR travels,A/C Sleeper (2+1),23:00,03h 30m,02:30,3.5,640
+567,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Harikrishna Travels,Non A/C Seater / Sleeper (2+1),03:00,03h 30m,06:30,3.0,1000
+568,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Harikrishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),04:30,02h 35m,07:05,3.0,1400
+569,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Harikrishna Travels,Non A/C Seater / Sleeper (2+1),05:00,03h 30m,08:30,3.0,1400
+570,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Saini Travels Pvt. Ltd.,AC Sleeper (2+1),21:30,04h 10m,01:40,3.9,1000
+571,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Vijayant Travels,A/C Sleeper (2+1),21:45,03h 30m,01:15,3.9,1200
+572,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Orange Tours And Travels,A/C Sleeper (2+1),22:00,03h 45m,01:45,3.6,900
+573,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Morning Star Travels,A/C Sleeper (2+1),04:40,03h 25m,08:05,2.7,1790
+574,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor,Shri Mahadev (f.d.m),NON A/C Sleeper (2+1),21:45,05h 30m,03:15,1.7,1000
+575,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 9444,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",00:10,04h 15m,04:25,3.3,392
+576,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7291,LAHARI A/C SLEEPER CUM SEATER,03:35,04h 35m,08:10,1.8,476
+577,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7226,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:30,05h 30m,11:00,4.4,392
+578,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7246,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:20,05h 30m,12:50,3.9,392
+579,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7159,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:15,05h 30m,13:45,2.2,392
+580,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7163,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:00,05h 30m,16:30,4.0,392
+581,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7260,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:30,05h 30m,18:00,2.8,392
+582,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 9503,RAJDHANI (A.C. Semi Sleeper),13:00,05h 30m,18:30,2.7,476
+583,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7204,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:00,05h 30m,19:30,3.5,392
+584,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7267,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:30,05h 30m,20:00,3.8,392
+585,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7198,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,05h 30m,22:00,3.8,392
+586,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7331,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,05h 45m,23:15,2.5,392
+587,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7206,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:20,05h 30m,01:50,4.3,392
+588,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7235,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,05h 30m,03:00,4.5,392
+589,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 9507,RAJDHANI (A.C. Semi Sleeper),22:00,05h 30m,03:30,3.6,476
+590,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7201,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,05h 30m,04:30,4.5,392
+591,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7271,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:15,05h 15m,04:30,4.3,392
+592,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 7273,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:45,05h 25m,05:10,4.0,392
+593,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,TSRTC - 9511,RAJDHANI (A.C. Semi Sleeper),23:50,04h 40m,04:30,4.3,502
+594,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,Morning Star Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),03:40,06h 05m,09:45,2.7,690
+595,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani,Orange Tours And Travels,Scania AC Multi Axle Sleeper (2+1),05:00,03h 55m,08:55,2.3,800

@@ -1,0 +1,258 @@
+,route_name,route_link,busname,bustype,departing_time,duration,reaching_time,star_rating,price
+0,Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala,PEPSU (Punjab) - 67140,AC Seater Hvac 2+2,16:00,05h 30m,21:30,2.2,454
+1,Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala,PEPSU (Punjab) - 66667,Volvo AC Seater (2+2),17:31,04h 59m,22:30,4.4,711
+2,Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala,PEPSU (Punjab) - 67103,AC Seater Hvac 2+2,22:31,05h 29m,04:00,3.3,454
+3,Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi,PEPSU (Punjab) - 67142,Volvo AC Seater (2+2),16:00,05h 25m,21:25,4.2,711
+4,Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi,PEPSU (Punjab) - 66687,Volvo AC Seater (2+2),18:10,06h 09m,00:19,3.2,711
+5,Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi,PEPSU (Punjab) - 67104,AC Seater Hvac 2+2,22:30,05h 01m,03:31,3.1,454
+6,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,PEPSU (Punjab) - 67166,Volvo AC Seater (2+2),16:50,06h 00m,22:50,3.4,873
+7,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,PEPSU (Punjab) - 67132,Volvo AC Seater (2+2),17:40,06h 00m,23:40,3.6,873
+8,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:50,07h 00m,04:50,4.0,873
+9,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,RSRTC - 170038,Express Non AC Seater 2+3,16:00,07h 00m,23:00,2.2,395
+10,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,RSRTC - 156675,Express Non AC Seater 2+3,22:30,06h 45m,05:15,2.2,391
+11,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:30,05h 54m,05:24,4.7,400
+12,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,06h 40m,05:00,4.5,420
+13,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07h 00m,06:40,4.4,513
+14,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:45,07h 30m,05:15,4.5,366
+15,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,VE A/C Sleeper (2+1),23:00,07h 00m,06:00,4.3,570
+16,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,07h 25m,06:10,4.5,360
+17,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Zingbus Plus,Scania A/C Semi Sleeper (2+2),23:05,06h 40m,05:45,4.6,342
+18,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,07h 35m,05:40,4.8,362
+19,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,07h 15m,04:45,4.7,449
+20,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:45,07h 35m,04:20,4.7,361
+21,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,06h 50m,03:20,4.6,614
+22,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:58,06h 22m,05:20,4.0,499
+23,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,AC Sleeper (2+1),22:00,08h 00m,06:00,4.5,442
+24,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:31,06h 30m,05:01,4.1,400
+25,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,06h 40m,06:10,4.3,513
+26,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:55,06h 15m,05:10,4.4,499
+27,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:50,06h 16m,05:06,4.0,599
+28,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater (2+2),18:00,06h 25m,00:25,3.3,404
+29,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:50,06h 00m,04:50,3.6,511
+30,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater (2+2),23:50,06h 25m,06:15,3.1,404
+31,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,New Navyug Travels,A/C Sleeper (2+1),22:45,05h 45m,04:30,3.5,625
+32,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,06h 45m,05:45,4.3,492
+33,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater (2+2),23:00,06h 25m,05:25,2.6,404
+34,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Zingbus Plus,A/C Sleeper (2+1),22:00,06h 25m,04:25,4.7,609
+35,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,07h 35m,06:05,4.0,378
+36,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater/Sleeper (2+1),22:00,06h 40m,04:40,3.6,380
+37,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,08h 10m,06:10,3.6,492
+38,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,New National Travels,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,2.9,404
+39,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:40,05h 30m,05:10,3.3,496
+40,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),20:30,07h 00m,03:30,3.6,780
+41,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,05h 35m,04:00,3.3,600
+42,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:40,06h 06m,04:46,3.6,599
+43,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05h 20m,04:00,2.8,554
+44,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),14:10,07h 55m,22:05,1.5,474
+45,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Classic Travels,A/C Seater / Sleeper (2+2),22:00,07h 00m,05:00,2.2,599
+46,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:50,05h 56m,04:46,3.6,499
+47,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,06h 45m,05:45,3.3,700
+48,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:40,06h 06m,04:46,3.5,629
+49,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),20:50,05h 40m,02:30,3.3,509
+50,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05h 20m,04:00,3.3,600
+51,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,FlixBus,A/C Sleeper (2+1),21:00,07h 15m,04:15,3.4,743
+52,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,City Land Travels,A/C Seater/Sleeper (2+1),23:15,06h 35m,05:50,3.7,488
+53,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,05h 20m,05:00,2.5,686
+54,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,06h 06m,04:46,3.5,629
+55,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),22:50,05h 45m,04:35,3.3,499
+56,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Kedara Bus,A/C Seater / Sleeper (2+1),22:45,06h 55m,05:40,4.5,999
+57,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,FlixBus,A/C Sleeper (2+1),22:30,07h 20m,05:50,4.1,619
+58,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,CALL2TRIP,A/C Seater / Sleeper (2+2),22:40,06h 00m,04:40,2.9,594
+59,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),23:00,07h 00m,06:00,3.6,500
+60,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Travel Point,A/C Seater / Sleeper (2+2),21:00,05h 21m,02:21,3.5,949
+61,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Vaishnoyatra services pvt ltd,A/C Seater / Sleeper (2+2),22:00,07h 30m,05:30,3.3,650
+62,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,05h 25m,03:55,3.3,600
+63,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Travel Point World LLP,A/C Seater / Sleeper (2+2),22:15,05h 45m,04:00,1.6,699
+64,Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,MM Travels,AC Seater (2+2),14:25,06h 05m,20:30,1.3,1599
+65,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),17:35,08h 00m,01:35,4.1,873
+66,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),19:50,07h 35m,03:25,3.2,873
+67,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),20:50,05h 59m,02:49,4.8,873
+68,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67164,Volvo AC Seater (2+2),21:50,07h 00m,04:50,4.6,873
+69,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:27,06h 33m,05:00,4.6,570
+70,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:50,06h 45m,06:35,4.7,530
+71,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Laxmi holidays,VE A/C Sleeper (2+1),23:55,06h 50m,06:45,4.4,556
+72,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,07h 15m,06:00,4.7,529
+73,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06h 05m,06:00,4.4,394
+74,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:40,06h 00m,05:40,4.4,328
+75,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),23:15,05h 50m,05:05,3.7,486
+76,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),18:00,05h 50m,23:50,3.4,410
+77,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,New Navyug Travels,A/C Sleeper (2+1),23:00,06h 30m,05:30,3.8,675
+78,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,05h 55m,05:20,4.1,499
+79,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,4.5,450
+80,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:30,05h 50m,05:20,3.9,499
+81,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 20m,05:15,4.2,600
+82,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Classic Travels,A/C Seater / Sleeper (2+2),23:55,07h 00m,06:55,2.6,389
+83,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:58,06h 52m,06:50,3.6,499
+84,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),14:20,06h 45m,21:05,3.0,380
+85,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:25,05h 05m,04:30,4.3,564
+86,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:57,06h 53m,06:50,2.5,499
+87,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:40,05h 30m,05:10,2.2,600
+88,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:59,06h 31m,06:30,2.4,499
+89,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),00:05,05h 50m,05:55,3.2,380
+90,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),22:50,07h 10m,06:00,2.8,474
+91,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,06h 22m,06:20,3.2,599
+92,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Kedara Bus,A/C Seater / Sleeper (2+1),23:35,05h 40m,05:15,4.5,799
+93,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Classic Travels,A/C Seater / Sleeper (2+2),23:30,07h 00m,06:30,2.4,389
+94,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,06h 07m,06:05,3.6,599
+95,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,MM Travels,A/C Seater / Sleeper (2+2),22:30,07h 30m,06:00,1.5,349
+96,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),17:50,07h 40m,01:30,2.2,700
+97,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Shree Mahaveer Travels Jaipur,VE A/C Seater / Sleeper (2+1),21:00,07h 55m,04:55,3.5,499
+98,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Travel Point,A/C Seater / Sleeper (2+2),23:25,05h 55m,05:20,3.5,949
+99,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Khurana Bus Service,Volvo A/C (2+2),20:35,07h 05m,03:40,3.1,600
+100,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,MM Travels,A/C Seater / Sleeper (2+2),15:00,12h 00m,03:00,1.5,599
+101,Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,MM Travels,A/C Seater / Sleeper (2+2),16:30,12h 00m,04:30,1.5,599
+102,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),18:10,09h 15m,03:25,4.4,1045
+103,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),19:10,08h 40m,03:50,4.2,1045
+104,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,07h 20m,06:30,4.7,404
+105,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:55,08h 20m,07:15,4.7,388
+106,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,07h 10m,05:40,4.6,328
+107,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,AdNew Navyug Travels,A/C Sleeper (2+1),21:50,07h 40m,05:30,4.1,675
+108,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),21:11,07h 49m,05:00,4.5,570
+109,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:26,07h 02m,06:28,4.5,570
+110,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:05,07h 40m,04:45,4.4,584
+111,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,VE A/C Sleeper (2+1),23:05,07h 40m,06:45,4.4,570
+112,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,07h 15m,06:00,4.5,394
+113,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:25,07h 35m,07:00,4.3,570
+114,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:30,06h 50m,06:20,4.4,599
+115,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,R S YADAV SMART BUS PRIVATE LIMITED,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),22:55,07h 10m,06:05,4.6,569
+116,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:35,08h 00m,06:35,4.7,530
+117,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:35,07h 45m,06:20,4.3,490
+118,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,07h 20m,07:15,4.0,343
+119,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:20,08h 40m,06:00,4.1,529
+120,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:35,07h 10m,06:45,4.1,428
+121,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:54,06h 36m,06:30,3.0,499
+122,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,07h 45m,06:00,4.2,450
+123,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,06h 50m,05:20,3.8,499
+124,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,06h 50m,05:20,3.8,499
+125,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:10,06h 20m,04:30,4.2,564
+126,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,3.9,499
+127,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,06h 30m,05:10,3.5,600
+128,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:15,07h 10m,06:25,4.4,400
+129,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:30,06h 35m,06:05,4.3,599
+130,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,NueGo,Electric A/C Seater/Sleeper (2+1),23:45,08h 40m,08:25,4.6,380
+131,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:58,07h 17m,07:15,4.1,570
+132,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:10,06h 05m,05:15,2.4,600
+133,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,1.8,499
+134,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Kedara Bus,A/C Seater / Sleeper (2+1),22:30,06h 45m,05:15,4.4,799
+135,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Lavish Travels,A/C Seater / Sleeper (2+2),23:40,05h 50m,05:30,2.7,522
+136,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,1.9,719
+137,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Khurana Bus Service,Volvo A/C (2+2),18:35,08h 05m,02:40,3.1,594
+138,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Travel Point,A/C Seater / Sleeper (2+2),22:25,06h 55m,05:20,2.7,949
+139,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),23:50,06h 10m,06:00,1.3,599
+140,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,FlixBus,A/C Sleeper (2+1),23:30,07h 25m,06:55,4.5,678
+141,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:30,06h 00m,05:30,2.3,500
+142,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),16:20,09h 10m,01:30,2.3,700
+143,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Big Bus,A/C Seater / Sleeper (2+2),23:00,06h 30m,05:30,2.4,899
+144,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Ashok Travels,A/C Seater / Sleeper (2+2),23:00,07h 00m,06:00,2.4,759
+145,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,MM Travels,A/C Seater / Sleeper (2+2),18:00,10h 30m,04:30,1.2,599
+146,Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,MM Travels,A/C Seater / Sleeper (2+2),16:30,10h 30m,03:00,1.2,599
+147,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,PEPSU (Punjab) - 67166,Volvo AC Seater (2+2),16:50,07h 20m,00:10,3.4,1045
+148,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,PEPSU (Punjab) - 67132,Volvo AC Seater (2+2),17:40,07h 10m,00:50,3.9,1045
+149,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:50,08h 30m,06:20,3.4,1045
+150,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:30,06h 59m,06:29,4.7,400
+151,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:45,08h 45m,06:30,4.7,366
+152,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,08h 20m,05:50,4.7,449
+153,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,AdNew Navyug Travels,A/C Sleeper (2+1),22:45,07h 25m,06:10,4.0,625
+154,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07h 20m,05:40,4.5,420
+155,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,08h 35m,07:20,4.5,360
+156,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:31,07h 44m,06:15,4.5,400
+157,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,AdGolden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:50,07h 27m,06:17,4.0,599
+158,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,AC Sleeper (2+1),22:00,09h 00m,07:00,4.5,442
+159,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,08h 40m,06:45,4.7,362
+160,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07h 50m,07:30,4.4,570
+161,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,VE A/C Sleeper (2+1),23:00,08h 10m,07:10,4.3,570
+162,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,08h 00m,06:00,4.2,420
+163,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:45,08h 45m,05:30,4.4,361
+164,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),23:05,07h 45m,06:50,4.5,324
+165,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,07h 55m,04:25,4.3,614
+166,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,R S YADAV SMART BUS PRIVATE LIMITED,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),22:30,07h 31m,06:01,4.6,569
+167,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 40m,07:10,4.2,570
+168,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07h 30m,02:00,4.7,770
+169,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,New National Travels,A/C Seater / Sleeper (2+2),23:00,07h 00m,06:00,3.6,404
+170,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,09h 20m,07:20,4.8,492
+171,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:58,06h 57m,05:55,3.9,499
+172,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,06h 35m,05:00,4.1,549
+173,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,10h 15m,07:45,4.0,419
+174,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:55,07h 20m,06:15,3.1,499
+175,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:50,07h 00m,05:50,3.0,511
+176,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,06h 30m,05:10,4.2,554
+177,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,City Land Travels,A/C Seater/Sleeper (2+1),23:15,07h 25m,06:40,3.6,488
+178,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,FlixBus,A/C Sleeper (2+1),21:00,08h 15m,05:15,4.5,766
+179,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,08h 10m,07:10,3.7,492
+180,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,08h 50m,07:20,3.7,378
+181,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),18:30,07h 30m,02:00,3.8,500
+182,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Zingbus Plus,A/C Sleeper (2+1),22:00,07h 30m,05:30,4.5,609
+183,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:40,06h 30m,06:10,3.2,496
+184,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),18:45,08h 30m,03:15,4.4,549
+185,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:40,07h 26m,06:06,3.1,629
+186,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,NueGo,Electric A/C Seater/Sleeper (2+1),22:00,08h 25m,06:25,3.0,380
+187,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:40,07h 17m,05:57,4.3,599
+188,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:50,07h 07m,05:57,3.3,499
+189,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Classic Travels,A/C Seater / Sleeper (2+2),22:00,08h 15m,06:15,2.3,599
+190,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,07h 30m,06:00,3.4,629
+191,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,06h 20m,05:00,2.6,499
+192,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ashok Bus Service,A/C Seater / Sleeper (2+2),23:35,08h 40m,08:15,4.4,649
+193,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,08h 50m,04:30,3.8,510
+194,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,07h 15m,06:15,3.8,700
+195,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),20:50,07h 00m,03:50,3.3,509
+196,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),14:30,08h 35m,23:05,1.7,624
+197,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,RK Holiday,A/C Seater / Sleeper (2+2),18:40,07h 00m,01:40,3.1,499
+198,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CALL2TRIP,A/C Seater / Sleeper (2+2),22:40,07h 00m,05:40,2.9,594
+199,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07h 35m,07:15,2.3,686
+200,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Big Bus,A/C Seater / Sleeper (2+2),20:30,06h 00m,02:30,3.7,695
+201,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,07h 30m,04:00,1.6,719
+202,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Big Bus,A/C Seater / Sleeper (2+2),17:35,06h 10m,23:45,1.8,695
+203,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),22:50,06h 45m,05:35,2.7,499
+204,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Big Bus,A/C Seater / Sleeper (2+2),15:30,06h 10m,21:40,1.0,695
+205,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,07h 26m,06:06,3.1,629
+206,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,FlixBus,A/C Sleeper (2+1),22:30,08h 30m,07:00,4.5,678
+207,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,3.9,600
+208,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,05h 41m,04:21,3.1,629
+209,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Kedara Bus,A/C Seater / Sleeper (2+1),22:45,07h 55m,06:40,3.9,999
+210,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),23:00,07h 50m,06:50,3.8,500
+211,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:00,07h 30m,00:30,1.0,629
+212,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,B S Holiday Travels,A/C Seater / Sleeper (2+2),22:30,07h 30m,06:00,3.6,1699
+213,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),15:30,07h 30m,23:00,1.1,629
+214,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Travel Point,A/C Seater / Sleeper (2+2),21:00,06h 21m,03:21,3.5,949
+215,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Vaishnoyatra services pvt ltd,A/C Seater / Sleeper (2+2),22:00,08h 30m,06:30,3.3,650
+216,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Lavish Travels,A/C Seater / Sleeper (2+2),18:15,09h 15m,03:30,3.1,522
+217,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Big Bus,A/C Seater / Sleeper (2+2),22:30,05h 00m,03:30,1.8,695
+218,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Travel Point World LLP,A/C Seater / Sleeper (2+2),22:15,06h 45m,05:00,1.6,699
+219,Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,MM Travels,AC Seater (2+2),14:25,07h 20m,21:45,1.0,1599
+220,Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),14:30,09h 00m,23:30,4.6,3000
+221,Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),15:30,09h 00m,00:30,4.6,3300
+222,Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),16:30,09h 00m,01:30,4.6,3300
+223,Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),17:00,09h 00m,02:00,4.6,2500
+224,Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),22:00,09h 00m,07:00,4.6,3000
+225,Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),23:30,09h 00m,08:30,4.6,3300
+226,Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),23:30,06h 00m,05:30,4.6,2500
+227,Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),23:30,06h 00m,05:30,4.6,2500
+228,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67096,Volvo AC Seater (2+2),16:15,07h 50m,00:05,4.0,997
+229,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),17:35,09h 00m,02:35,4.0,997
+230,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),19:50,08h 15m,04:05,4.2,997
+231,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),20:50,08h 00m,04:50,4.4,997
+232,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67164,Volvo AC Seater (2+2),21:50,08h 00m,05:50,4.4,997
+233,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),15:29,09h 31m,01:00,4.6,3850
+234,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),17:29,07h 01m,00:30,4.6,3300
+235,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),21:29,07h 01m,04:30,4.6,3850
+236,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),19:29,07h 01m,02:30,4.6,3300
+237,Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),15:29,07h 31m,23:00,4.6,3850
+238,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,PEPSU (Punjab) - 67132,Volvo AC Seater (2+2),15:50,07h 50m,23:40,4.0,997
+239,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:00,07h 50m,04:50,3.0,997
+240,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,PEPSU (Punjab) - 67064,Volvo AC Seater (2+2),23:58,08h 00m,07:58,4.3,997
+241,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,A/C Sleeper (2+1),20:00,08h 25m,04:25,4.3,941
+242,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),18:30,08h 50m,03:20,4.3,975
+243,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),15:30,10h 15m,01:45,4.6,3300
+244,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),16:30,08h 15m,00:45,4.6,3300
+245,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),23:30,08h 15m,07:45,4.6,3300
+246,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),17:00,10h 15m,03:15,4.6,2500
+247,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),19:30,08h 15m,03:45,4.6,3300
+248,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),22:00,08h 15m,06:15,4.6,3850
+249,Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,Scania A/C Semi Sleeper (2+2),20:00,09h 45m,05:45,4.3,741
+250,Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),18:10,09h 55m,04:05,4.0,1169
+251,Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),19:10,09h 40m,04:50,4.7,1169
+252,Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),18:00,08h 30m,02:30,4.4,3300
+253,Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),23:00,11h 00m,10:00,4.6,3300
+254,Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),16:00,08h 30m,00:30,4.6,3300
+255,Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),20:00,08h 30m,04:30,4.6,3850
+256,Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),23:55,11h 10m,11:05,4.6,3000
